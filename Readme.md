@@ -1,3 +1,5 @@
 # Read Me
 
-Hello!
+Hello!  
+
+I am adding some new information to this Read Me file.
